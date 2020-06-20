@@ -1,0 +1,30 @@
+.box{
+	min-height: 80px;
+	background-color: green;
+	margin-bottom: 20px;
+}
+.box2{
+	background-color: red;
+	min-height: 80px;
+	margin-bottom: 20px;
+}
+.box3{
+	background-color: yellow;
+	min-height: 80px;
+	margin-bottom: 20px;
+}
+.box4{
+	background-color: skyblue;
+	min-height: 80px;
+	margin-bottom: 20px;
+}
+.box5{
+	background-color: blue;
+	min-height: 80px;
+	margin-bottom: 20px;
+}
+.bg-color{
+	min-height: 80px;
+	background-color: red;
+	margin-bottom: 20px;
+}
